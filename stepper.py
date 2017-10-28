@@ -1,4 +1,7 @@
 #!/usr/bin/python
+#
+# This is a specialized version of Matt Hawkins code.
+#
 #--------------------------------------
 #    ___  ___  _ ____          
 #   / _ \/ _ \(_) __/__  __ __ 
@@ -19,46 +22,6 @@
 #--------------------------------------
 
 
-#
-# October 14, 2017
-# 0.0.1 Minor mode to range parameter.
-#
-# October 14, 2017
-# 0.0.2 Catch the keyboard exception and shutdown cleanly.
-#
-# October 14, 2017
-# 0.0.3 Created funtions
-#
-# October 14, 2017
-# 0.0.4 Feed Once Cycle completed
-#
-# October 14, 2017
-# 0.0.5 Feeding one serving complete.
-#
-# October 14, 2017
-# 0.0.6 Started FishFeeder class.
-#
-# October 14, 2017
-# 0.0.7 More FishFeeder class.
-#
-# October 17, 2017
-# 0.0.8 More refactoring
-#
-# October 17, 2017
-# 0.1.9 Refactoring into FishFeeder class might be finished.
-#
-# October 17, 2017
-# 0.1.10 Cleaned up the file.
-#
-# October 17, 2017
-# 0.1.11 Put keyboard interrupt back in.
-#
-# October 19, 2017
-# 0.1.12 Deleted extra code.
-#
-# October 19, 2017
-# 0.2.14 Corrected an indent problem.  Works great now!
-#
 
 
 
